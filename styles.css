@@ -258,7 +258,7 @@ header {
     transition: bottom .6s;
 }
 .input-box input:focus~label,
-.input-box input:focus~label {
+.input-box input:valid~label {
     bottom: 29px;
 }
 
